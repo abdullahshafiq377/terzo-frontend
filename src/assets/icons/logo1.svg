@@ -1,0 +1,22 @@
+<svg width="54" height="37" viewBox="0 0 54 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="97f401fad41537d2f9907f955114f6ff.svg">
+<g id="Clip path group">
+<mask id="mask0_903_215" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="4" width="54" height="28">
+<g id="tc_svg__a">
+<path id="Vector" d="M0 4.71094H54V31.7109H0V4.71094Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_903_215)">
+<g id="Group">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M27 4.71094V13.7109H18V31.7109H9V13.7109H0V4.71094H27ZM36 13.7109V22.7109H54V31.7109H27V13.7109H36ZM36 13.7109V4.71094H54V13.7109H36Z" fill="url(#paint0_linear_903_215)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_903_215" x1="54" y1="4.71094" x2="0" y2="31.7109" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFC8FF"/>
+<stop offset="0.809" stop-color="#C098CE"/>
+</linearGradient>
+</defs>
+</svg>
