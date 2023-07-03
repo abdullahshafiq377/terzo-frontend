@@ -69,7 +69,7 @@ function App () {
 				<section className='my-14 lg:py-14'>
 					<LatestNewsSection/>
 				</section>
-				<section className='my-14 lg:py-14'>
+				<section className='mt-14 lg:pt-14'>
 					<LogoSection/>
 				</section>
 			</main>
