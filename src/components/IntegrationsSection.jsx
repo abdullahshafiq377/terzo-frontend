@@ -24,34 +24,34 @@ const IntegrationsSection = () => {
 			<div className="relative z-10 md:flex items-start justify-center hidden">
 				<div className="flex md:flex-col flex-row justify-center lg:mt-0 -mt-4 gap-4">
 					<div className="xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:-translate-x-[416px] lg:-translate-x-[352px] md:-translate-x-[248px] md:translate-y-[56px]">
-						<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#2c203f]">
+						<div className="relative rounded flex h-full w-full items-center justify-center border border-purple-500/60 bg-gradient-to-tr from-zinc-800/60 via-purple-400/20 to-zinc-800/60">
 							<img alt="Microsoft Logo" src={microsoftLogo}/>
 						</div>
 					</div>
 					<div className="mt-20 xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:-translate-x-[340px] lg:-translate-x-[280px] md:-translate-x-[200px] md:translate-y-[32px]">
-						<div className="relative rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-[#1d1e38]">
+						<div className="relative rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-gradient-to-tr from-slate-900/60 via-indigo-500/20 to-slate-900/60">
 							<img alt="Microsoft Logo" src={oracleLogo}/>
 						</div>
 					</div>
 					<div className="mt-14 xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:-translate-x-[120px] lg:-translate-x-[100px] md:-translate-x-[70px]">
-							<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#311f3b]">
+							<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-gradient-to-tr from-zinc-800/60 via-violet-400/20 to-zinc-800/60">
 							<img alt="Microsoft Logo" src={servicenowLogo}/>
 						</div>
 					</div>
 				</div>
 				<div className="flex md:flex-col flex-row justify-center lg:mt-0 -mt-4 gap-4">
 					<div className="xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:translate-x-[416px] lg:translate-x-[352px] md:translate-x-[248px] md:translate-y-[56px]">
-						<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#2c203f]">
+						<div className="relative rounded flex h-full w-full items-center justify-center border border-purple-500/60 bg-gradient-to-tr from-zinc-800/60 via-purple-400/20 to-zinc-800/60">
 							<img alt="Microsoft Logo" src={sapLogo}/>
 						</div>
 					</div>
 					<div className="mt-20 xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:translate-x-[340px] lg:translate-x-[280px] md:translate-x-[200px] md:translate-y-[32px]">
-						<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#311f3b]">
+						<div className="relative rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-gradient-to-tr from-zinc-800/60 via-violet-400/20 to-zinc-800/60">
 							<img alt="Microsoft Logo" src={workdayLogo}/>
 						</div>
 					</div>
 					<div className="mt-14 xl:h-[180px] xl:w-[180px] lg:h-[144px] lg:w-[144px] md:h-[112px] md:w-[112px] h-[98px] w-[98px] xl:translate-x-[120px] lg:translate-x-[100px] md:translate-x-[70px]">
-						<div className="relative rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-[#1d1e38]">
+						<div className="relative rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-gradient-to-tr from-slate-900/60 via-indigo-500/20 to-slate-900/60">
 							<img alt="Microsoft Logo" src={coupaLogo}/>
 						</div>
 					</div>
@@ -64,32 +64,32 @@ const IntegrationsSection = () => {
 			</div>
 			<div className='grid grid-cols-3 grid-rows-2 gap-8 place-content-center justify-items-center max-w-sm mx-auto mt-10 md:hidden'>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#2c203f]">
+ 					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-purple-500/60 bg-gradient-to-tr from-zinc-800/60 via-purple-400/20 to-zinc-800/60">
 						<img alt="Microsoft Logo" src={microsoftLogo}/>
 					</div>
 				</div>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-[#1d1e38]">
+					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-gradient-to-tr from-slate-900/60 via-indigo-500/20 to-slate-900/60">
 						<img alt="Microsoft Logo" src={oracleLogo}/>
 					</div>
 				</div>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#311f3b]">
+					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-gradient-to-tr from-zinc-800/60 via-violet-400/20 to-zinc-800/60">
 						<img alt="Microsoft Logo" src={servicenowLogo}/>
 					</div>
 				</div>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#2c203f]">
+					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-purple-500/60 bg-gradient-to-tr from-zinc-800/60 via-purple-400/20 to-zinc-800/60">
 						<img alt="Microsoft Logo" src={sapLogo}/>
 					</div>
 				</div>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-[#311f3b]">
+					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-violet-500/60 bg-gradient-to-tr from-zinc-800/60 via-violet-400/20 to-zinc-800/60">
 						<img alt="Microsoft Logo" src={workdayLogo}/>
 					</div>
 				</div>
 				<div className="h-[98px] w-[98px]">
-					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-[#1d1e38]">
+					<div className="p-4 rounded flex h-full w-full items-center justify-center border border-indigo-500/60 bg-gradient-to-tr from-slate-900/60 via-indigo-500/20 to-slate-900/60">
 						<img alt="Microsoft Logo" src={coupaLogo}/>
 					</div>
 				</div>
